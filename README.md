@@ -11,6 +11,6 @@ You will need to install [python](https://www.python.org), [numpy](https://numpy
 ```bash
 conda create -n envName python numpy pandas matplotlib scikit-learn
 ```
-This will create a conda environment with python, numpy, pandas, matplotlib, and scimitar-learn installed in it. Run `conda activate envName` to activate or `conda deactivate` to deactivate the environment.
+This will create a conda environment with python, numpy, pandas, matplotlib, and scikit-learn installed in it. Run `conda activate envName` to activate or `conda deactivate` to deactivate the environment.
 
 If you are not seeing the equations above, please install the [MathJax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en) plugin for your chrome browser.
